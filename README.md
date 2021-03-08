@@ -1,0 +1,1 @@
+# SMK_acquisitions_per_gender
